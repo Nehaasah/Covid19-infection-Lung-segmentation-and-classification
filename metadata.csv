@@ -1,0 +1,4 @@
+ct_scan,lung_mask,infection_mask,lung_and_infection_mask
+../input/covid19-ct-scans/ct_scans/coronacases_org_001.nii,../input/covid19-ct-scans/lung_mask/coronacases_001.nii,../input/covid19-ct-scans/infection_mask/coronacases_001.nii,../input/covid19-ct-scans/lung_and_infection_mask/coronacases_001.nii
+../input/covid19-ct-scans/ct_scans/radiopaedia_org_covid-19-pneumonia-4_85506_1-dcm.nii,../input/covid19-ct-scans/lung_mask/radiopaedia_4_85506_1.nii,../input/covid19-ct-scans/infection_mask/radiopaedia_4_85506_1.nii,../input/covid19-ct-scans/lung_and_infection_mask/radiopaedia_4_85506_1.nii
+../input/covid19-ct-scans/lung_mask/radiopaedia_4_85506_1.nii,../input/covid19-ct-scans/infection_mask/radiopaedia_4_85506_1.nii,../input/covid19-ct-scans/lung_and_infection_mask/radiopaedia_4_85506_1.nii
