@@ -6,6 +6,8 @@ The COVID-19 Lung Segmentation Project aims to develop an automated system for s
 ## Project Overview
 The project focuses on developing a robust and accurate lung segmentation model using a dataset of COVID-19 CT scan images. The main steps involved in the project workflow are as follows:
 
+![image](https://github.com/Nehaasah/Covid19-infection-Lung-segmentation-and-classification/assets/102512172/8d044bdf-410c-4fb2-873b-da8a6c8ef9e7)
+
 1. Data Preprocessing: The CT scan images are preprocessed to handle noise, artifacts, and variability in image quality. This includes resizing, normalization, and augmentation techniques to enhance the data and improve model performance.
 
 2. Model Development: A U-Net architecture is employed for lung segmentation. The U-Net model is trained on the labeled CT scan images using a suitable loss function and optimization algorithm. Various hyperparameters are tuned to achieve optimal performance.
