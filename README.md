@@ -15,6 +15,8 @@ The project focuses on developing a robust and accurate lung segmentation model 
 3. Model Evaluation: The trained model is evaluated on a separate validation set using appropriate evaluation metrics such as Dice coefficient, sensitivity, specificity, and intersection over union (IoU). The model's performance is assessed to ensure accurate lung segmentation.
 
 4. Result Visualization: The lung segmentation results are visualized to demonstrate the effectiveness of the model. The original CT scan images are overlaid with the segmented lung regions to provide visual insights and aid in the interpretation of the results.
+   
+![image](https://github.com/Nehaasah/Covid19-infection-Lung-segmentation-and-classification/assets/102512172/8ade4a00-227c-40c4-b418-b3852e39ffa2)
 
 ## Steps:
 
